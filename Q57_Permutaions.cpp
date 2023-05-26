@@ -13,7 +13,6 @@ public:
         // Code here there
         vector<string> result;
         sort(S.begin(), S.end());
-
         do
         {
             result.push_back(S);
