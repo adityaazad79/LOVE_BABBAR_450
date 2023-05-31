@@ -7,5 +7,6 @@
         "regex": "cpp",
         "chrono": "cpp",
         "functional": "cpp"
-    }
+    },
+    "cph.general.onceMaintainerMessage": false
 }
